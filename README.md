@@ -1,4 +1,4 @@
-# Sentiment Analysis with Mixed Sentiment Detection
+# Sentiment Analysis with Mixed Sentiment Detection for Data Labeling (Subtitle Data)
 
 This project performs sentiment analysis on a text dataset using SpaCy for lemmatization and TextBlob for sentiment scoring. It also detects mixed sentiment within sentences based on certain conjunctions, adversative transitions, and implicit patterns.
 
